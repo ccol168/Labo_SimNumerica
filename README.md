@@ -5,5 +5,5 @@ In ogni cartella si troverà:
 - il notebook con i risultati, chiamato Esercizio_x.ipynb
 - main.cpp, ovvero il programma da eseguire
 - functions.cpp, usato in più o meno tutte le lezioni (talvolta con alcune modifiche) con funzioni utili
-- random.cpp
+- random.cpp e i file di testo associati (primes.in,seed.in ecc...)
 - un numero variabile di file.txt con gli output
