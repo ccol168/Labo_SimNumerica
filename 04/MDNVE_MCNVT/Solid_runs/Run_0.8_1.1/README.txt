@@ -1,0 +1,1 @@
+C'è un errore nella run, rcut è preso a 5.0 invece che a 2.2
